@@ -1,0 +1,36 @@
+  body {
+      background-color: #f0ce73;
+    }
+  hr {
+      border-style:none;
+      border-top-style: dotted;
+      border-color: #00BFFF;
+      border-width: 10px;
+      width: 7%;
+    }
+
+  h1  {
+      color: #000080;
+      font-family: Times, Times New Roman, serif;
+      font-variant:small-caps;
+      font-weight: lighter;
+    }
+
+
+    li { color: green }
+
+    #someElement {
+    color: blue;
+    }
+
+    .awesome {
+        color: red;
+      }
+
+    .size{
+      width: 109px;
+      height:155px;
+    }
+    .colorchenge:hover {
+      background-color: #F89B4D;
+    }
